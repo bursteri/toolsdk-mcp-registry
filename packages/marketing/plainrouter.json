@@ -13,9 +13,7 @@
       "url": "https://plainrouter.com/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "mcp:use"
-        ]
+        "scopes": ["mcp:use"]
       }
     }
   ]
