@@ -2,7 +2,7 @@
   "type": "mcp-server",
   "name": "Plainrouter",
   "packageName": "@toolsdk-remote/plainrouter",
-  "description": "Hosted Meta Ads MCP for workspace-scoped account reads, first-party conversion diagnostics and changes governed by Ask or Full policy. Production uses OAuth; a separate synthetic sandbox is available.",
+  "description": "Hosted Meta Ads MCP for workspace-scoped account reads, first-party conversion diagnostics and changes governed by Ask or Full policy. Production uses OAuth.",
   "url": "https://plainrouter.com",
   "readme": "https://plainrouter.com/docs/mcp/setup",
   "runtime": "node",
